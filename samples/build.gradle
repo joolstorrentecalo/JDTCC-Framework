@@ -6,7 +6,7 @@ android {
     compileSdkVersion propCompileSdkVersion
 
     defaultConfig {
-        applicationId "com.simplemobiletools.commons"
+        applicationId "com.jtcstudios.commons"
         minSdkVersion propMinSdkVersion
         targetSdkVersion propTargetSdkVersion
         versionCode propVersionCode
