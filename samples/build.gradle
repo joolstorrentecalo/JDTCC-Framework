@@ -24,6 +24,7 @@ android {
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
+    namespace 'com.simplemobiletools.commons.samples'
 }
 
 dependencies {
